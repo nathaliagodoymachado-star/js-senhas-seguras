@@ -1,2 +1,2 @@
 # js-senhas-seguras
-escrever depois....
+Senhas seguras com matematica e programação
